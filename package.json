@@ -1,0 +1,16 @@
+{
+  "name": "loopback-connector-voipms",
+  "version": "1.0.0",
+  "description": "LoopBack connector for sending SMS via VoIP.ms, compatible with loopback-connector-twilio",
+  "main": "index.js",
+  "keywords": ["loopback-connector", "voipms", "sms"],
+  "author": "Cameron Schaus <cam@schaus.ca>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camschaus/loopback-connector-voipms.git"
+  },
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
